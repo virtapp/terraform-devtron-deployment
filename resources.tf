@@ -21,7 +21,7 @@ resource "helm_release" "kong" {
   repository = "https://charts.konghq.com"
   chart      = "kong"
   create_namespace = true
-  wait             = true
+  timeout = 900
   set {
     name  = "ingressController.enabled"
     value = "true"
