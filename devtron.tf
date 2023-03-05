@@ -8,7 +8,7 @@ resource "helm_release" "devtron" {
   namespace        = var.devtron_namespace
   create_namespace = true
 
-  values = [file("argocd/devtron.yaml")]
+  values = [file("config/devtron.yaml")]
 
   timeout = 600000
 
