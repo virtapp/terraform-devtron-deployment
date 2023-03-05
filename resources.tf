@@ -10,7 +10,7 @@ resource "helm_release" "keycloak" {
   values = [
     file("config/keycloak-value.yaml")
   ]
-  depends_on = [helm_release.argocd]
+  depends_on = [helm_release.devtron]
 }
 
 
@@ -51,7 +51,7 @@ resource "helm_release" "kong" {
     name  = "ingressController.installCRDs"
     value = "false"
   }
-  depends_on = [helm_release.argocd]
+  depends_on = [helm_release.devtron]
 }
 
 
