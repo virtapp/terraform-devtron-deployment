@@ -5,7 +5,6 @@ Kubernetes in Docker with Terraform and Devtron
 
 
 
-🎯 About
 Devtron CI/CD integration enables software development teams to automate the build and deployment process, allowing them to focus on meeting the business requirements, maintaining code quality, and ensuring security
 
     Leverages Kubernetes auto-scaling and centralized caching to give you unlimited cost-efficient CI workers
