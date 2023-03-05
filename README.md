@@ -12,7 +12,6 @@ Devtron CI/CD integration enables software development teams to automate the bui
     Seamlessly integrates with Clair for image vulnerability scanning
     Supports different deployment strategies: Blue/Green, Rolling, Canary, and Recreate
     Implements GitOps to manage the state of Kubernetes applications
-    Provides deployment metrics like; deployment frequency, lead time, change failure rate, and mean-time recovery
     
 
 
