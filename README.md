@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/23049337/222948373-90911537-fdfd-4b54-b279-330f53c8ca08.png)
+![image](https://user-images.githubusercontent.com/23049337/222948416-9ca5fa83-e771-4a18-b1b3-c831bb072aa4.png)
 
  
 Kubernetes in Docker with Terraform and Devtron
