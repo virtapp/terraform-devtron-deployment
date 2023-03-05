@@ -1,0 +1,4 @@
+###-Devtron
+installer:
+  modules:
+    - cicd
