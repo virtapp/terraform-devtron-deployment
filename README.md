@@ -6,8 +6,17 @@ Kubernetes in Docker with Terraform and Devtron
 
 
 🎯 About
+Devtron CI/CD integration enables software development teams to automate the build and deployment process, allowing them to focus on meeting the business requirements, maintaining code quality, and ensuring security
 
-This project is a simple example of how to use Terraform to create a Kubernetes cluster in Docker using Kind.
+    Leverages Kubernetes auto-scaling and centralized caching to give you unlimited cost-efficient CI workers
+    Supports pre-CI and post-CI integrations for code quality monitoring
+    Seamlessly integrates with Clair for image vulnerability scanning
+    Supports different deployment strategies: Blue/Green, Rolling, Canary, and Recreate
+    Implements GitOps to manage the state of Kubernetes applications
+    Provides deployment metrics like; deployment frequency, lead time, change failure rate, and mean-time recovery
+    Seamless integration with Grafana for continuous application metrics like CPU and memory usage, status code, throughput, and latency on the dashboard
+
+
 🚀 Technologies
 
 The following tools were used in this project:
