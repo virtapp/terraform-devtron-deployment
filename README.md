@@ -13,7 +13,7 @@ Devtron CI/CD integration enables software development teams to automate the bui
     Supports different deployment strategies: Blue/Green, Rolling, Canary, and Recreate
     Implements GitOps to manage the state of Kubernetes applications
     Provides deployment metrics like; deployment frequency, lead time, change failure rate, and mean-time recovery
-    Seamless integration with Grafana for continuous application metrics like CPU and memory usage, status code, throughput, and latency on the dashboard
+    
 
 
 🚀 Technologies
